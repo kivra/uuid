@@ -1,0 +1,4 @@
+[{<<"quickrand">>,
+  {git,"https://github.com/okeuday/quickrand.git",
+       {ref,"c80077162f32c10002219f70e0afadb71e05f88c"}},
+  0}].
